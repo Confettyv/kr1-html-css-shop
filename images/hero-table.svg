@@ -1,24 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" width="640" height="480" role="img">
-  <rect width="640" height="480" fill="#1f5340"/>
-  <rect x="40" y="40" width="560" height="400" rx="18" fill="#f2f5f2"/>
-  <g fill="#1f5340" opacity="0.12">
-    <rect x="80" y="80" width="230" height="150" rx="10"/>
-    <rect x="330" y="80" width="230" height="150" rx="10"/>
-    <rect x="80" y="260" width="150" height="140" rx="10"/>
-    <rect x="250" y="260" width="150" height="140" rx="10"/>
-    <rect x="420" y="260" width="140" height="140" rx="10"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 460" width="620" height="460" role="img">
+  <rect width="620" height="460" fill="#14161b"/>
+  <g fill="none" stroke="#f3f4f1" stroke-width="2" opacity="0.18">
+    <path d="M0 160h620M0 300h620M160 0v460M460 0v460"/>
   </g>
-  <g fill="#a8432c">
-    <circle cx="150" cy="150" r="26"/>
-    <circle cx="215" cy="185" r="18"/>
+  <rect x="48" y="44" width="300" height="300" fill="#1f6fb2"/>
+  <rect x="48" y="44" width="300" height="300" fill="none" stroke="#f3f4f1" stroke-width="4"/>
+  <rect x="300" y="128" width="272" height="272" fill="#e0a21a"/>
+  <rect x="300" y="128" width="272" height="272" fill="none" stroke="#14161b" stroke-width="4"/>
+  <g transform="translate(436 252) scale(0.56) translate(-200 -108)">
+    <path d="M200 20c-26 0-43 18-43 40 0 9 3 17 8 24-21 3-41 8-60 17-9 4-13 14-10 23 3 9 12 13 21 11 13-4 26-7 39-8l-37 107c-3 9 2 18 11 21 9 3 18-2 21-11L172 160h52l25 81c3 9 12 14 21 11 9-3 14-12 11-21l-37-107c13 1 26 4 39 8 9 2 18-2 21-11 3-9-1-19-10-23-19-9-39-14-60-17 5-7 8-15 8-24 0-22-17-40-43-40z" fill="#14161b"/>
   </g>
-  <g fill="#1f5340">
-    <circle cx="420" cy="140" r="26"/>
-    <circle cx="480" cy="178" r="18"/>
-    <circle cx="300" cy="330" r="22"/>
+  <g transform="translate(198 180) scale(0.42) translate(-200 -108)">
+    <path d="M200 20c-26 0-43 18-43 40 0 9 3 17 8 24-21 3-41 8-60 17-9 4-13 14-10 23 3 9 12 13 21 11 13-4 26-7 39-8l-37 107c-3 9 2 18 11 21 9 3 18-2 21-11L172 160h52l25 81c3 9 12 14 21 11 9-3 14-12 11-21l-37-107c13 1 26 4 39 8 9 2 18-2 21-11 3-9-1-19-10-23-19-9-39-14-60-17 5-7 8-15 8-24 0-22-17-40-43-40z" fill="#f3f4f1"/>
   </g>
-  <g stroke="#1f5340" stroke-width="4" opacity="0.5" fill="none">
-    <path d="M150 150 L215 185 L300 330"/>
-    <path d="M420 140 L480 178"/>
-  </g>
+  <circle cx="96" cy="384" r="22" fill="#d8402f"/>
+  <circle cx="150" cy="384" r="22" fill="#2f7d4f"/>
+  <circle cx="204" cy="384" r="22" fill="#6a4a9c"/>
+  <circle cx="258" cy="384" r="22" fill="#e2701f"/>
 </svg>

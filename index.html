@@ -9,7 +9,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Bitter:wght@500;600;700&family=Golos+Text:wght@400;500;600;700&display=swap">
+        href="https://fonts.googleapis.com/css2?family=Unbounded:wght@700;800&family=Onest:wght@400;600;700;800&display=swap">
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
@@ -42,7 +42,7 @@
       <div class="hero__inner container">
         <div class="hero__text">
           <p class="eyebrow">Настольные игры</p>
-          <h1 class="hero__title">Игра, которую не придётся объяснять полчаса</h1>
+          <h1 class="hero__title">Игра, которую <span class="hero__title-accent">не придётся</span> объяснять полчаса</h1>
           <p class="hero__lead">
             Мы сами раскладываем каждую коробку перед тем, как поставить её
             на полку, и пишем в карточке честное время партии — то, за которое
@@ -52,12 +52,27 @@
             <a class="button" href="catalog.html">Смотреть каталог</a>
             <a class="button button--ghost" href="#advantages">Почему мы</a>
           </div>
+
+          <ul class="hero__stats">
+            <li class="hero__stat">
+              <span class="hero__stat-value">412</span>
+              <span class="hero__stat-label">игр в наличии</span>
+            </li>
+            <li class="hero__stat">
+              <span class="hero__stat-value">32</span>
+              <span class="hero__stat-label">можно попробовать</span>
+            </li>
+            <li class="hero__stat">
+              <span class="hero__stat-value">2</span>
+              <span class="hero__stat-label">стола в магазине</span>
+            </li>
+          </ul>
         </div>
 
         <div class="hero__media">
           <img class="hero__image" src="images/hero-table.svg" width="640" height="480"
                alt="Разложенная на столе настольная игра с фишками и связями между ними">
-          <p class="hero__note">Более 400 игр в наличии, 32 из них можно попробовать в магазине.</p>
+          <p class="hero__note">Каждую коробку мы разложили сами — и написали, сколько партия идёт на самом деле.</p>
         </div>
       </div>
     </section>
@@ -119,7 +134,7 @@
 
         <ul class="card-grid">
       <li class="card-grid__item">
-      <article class="product-card">
+      <article class="product-card product-card--family">
         <span class="product-card__badge product-card__badge--hit">Хит</span>
         <img class="product-card__image" src="images/game-valley.svg"
              width="400" height="300" alt="Коробка игры «Долина ветров»">
@@ -140,7 +155,7 @@
       </article>
     </li>
       <li class="card-grid__item">
-      <article class="product-card">
+      <article class="product-card product-card--family">
         <span class="product-card__badge product-card__badge--new">Новинка</span>
         <img class="product-card__image" src="images/game-post.svg"
              width="400" height="300" alt="Коробка игры «Полярная почта»">
@@ -161,7 +176,7 @@
       </article>
     </li>
       <li class="card-grid__item">
-      <article class="product-card product-card--discount">
+      <article class="product-card product-card--party product-card--discount">
         <span class="product-card__badge product-card__badge--sale">Скидка</span>
         <img class="product-card__image" src="images/game-magpie.svg"
              width="400" height="300" alt="Коробка игры «Шифр «Сорока»»">
@@ -182,7 +197,7 @@
       </article>
     </li>
       <li class="card-grid__item">
-      <article class="product-card">
+      <article class="product-card product-card--duel">
         <img class="product-card__image" src="images/game-curio.svg"
              width="400" height="300" alt="Коробка игры «Лавка редкостей»">
         <div class="product-card__body">
