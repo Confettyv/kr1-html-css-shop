@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300" role="img">
+  <rect width="400" height="300" fill="#8e4a6b"/>
+  <circle cx="60" cy="90" r="24" fill="#f2d6c6" opacity="0.85"/>
+  <polygon points="158.0,90.0 144.0,114.2 116.0,114.2 102.0,90.0 116.0,65.8 144.0,65.8" fill="#f2d6c6" opacity="0.8"/>
+  <polygon points="228.0,90.0 214.0,114.2 186.0,114.2 172.0,90.0 186.0,65.8 214.0,65.8" fill="#f2d6c6" opacity="0.5"/>
+  <polygon points="298.0,90.0 284.0,114.2 256.0,114.2 242.0,90.0 256.0,65.8 284.0,65.8" fill="#f2d6c6" opacity="0.5"/>
+  <polygon points="364.0,90.0 352.0,110.8 328.0,110.8 316.0,90.0 328.0,69.2 352.0,69.2" fill="#f2d6c6" opacity="0.7"/>
+  <polygon points="119.0,152.0 107.0,172.8 83.0,172.8 71.0,152.0 83.0,131.2 107.0,131.2" fill="#f2d6c6" opacity="0.7"/>
+  <circle cx="165" cy="152" r="20" fill="#f2d6c6" opacity="0.85"/>
+  <polygon points="259.0,152.0 247.0,172.8 223.0,172.8 211.0,152.0 223.0,131.2 247.0,131.2" fill="#f2d6c6" opacity="0.5"/>
+  <circle cx="305" cy="152" r="16" fill="#f2d6c6" opacity="0.85"/>
+  <circle cx="375" cy="152" r="24" fill="#f2d6c6" opacity="0.85"/>
+  <circle cx="60" cy="214" r="16" fill="#f2d6c6" opacity="0.85"/>
+  <polygon points="150.0,214.0 140.0,231.3 120.0,231.3 110.0,214.0 120.0,196.7 140.0,196.7" fill="#f2d6c6" opacity="0.5"/>
+  <circle cx="200" cy="214" r="20" fill="#f2d6c6" opacity="0.85"/>
+  <polygon points="294.0,214.0 282.0,234.8 258.0,234.8 246.0,214.0 258.0,193.2 282.0,193.2" fill="#f2d6c6" opacity="0.9"/>
+  <circle cx="340" cy="214" r="16" fill="#f2d6c6" opacity="0.85"/>
+  <rect x="0" y="0" width="400" height="56" fill="#55253c" opacity="0.9"/>
+  <rect x="0" y="252" width="400" height="48" fill="#55253c" opacity="0.65"/>
+  <rect x="12" y="12" width="376" height="276" fill="none" stroke="#f2d6c6" stroke-width="2" opacity="0.5"/>
+</svg>
