@@ -1,0 +1,19 @@
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Секреты и локальные настройки
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Резервные копии и архивы
+*.bak
+*.zip
+*.tar.gz
+
+# Редакторы
+.vscode/
+.idea/
